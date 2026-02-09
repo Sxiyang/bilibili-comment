@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # 飞书机器人 Webhook URL
 webhook_url = '这里填你的飞书机器人 Webhook URL'
-# 例如我的  'https://open.feishu.cn/open-apis/bot/v2/hook/4f06d2df-0682-4420-a5d2-xxxxxxxx'
+# 例如我的  'https://open.feishu.cn/open-apis/bot/v2/hook/4f06d2df-0682-4420-a5d2-xxxxxxxxx'
 
 # 设置视频的 bvid
 newbvid = ''  # 必须填写有效的 bvid
